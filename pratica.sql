@@ -1,4 +1,4 @@
---Questão 01
+--Questão 01 fd
 SELECT users.id,users.name, cities.name as city FROM users
 JOIN cities
 ON users."cityId" = cities.id
