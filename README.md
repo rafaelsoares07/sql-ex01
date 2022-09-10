@@ -25,4 +25,6 @@ olha meu codigo:
 ```
 num = int(input("digite"))
 
-```
+``` 
+
+:monkey:
